@@ -54,6 +54,8 @@ I came for the degree, stayed for the code.
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=thechampgit&layout=compact&hide_border=true" width="330">
+
 
 
 <br> 
@@ -80,7 +82,6 @@ I came for the degree, stayed for the code.
 
 <br><br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=thechampgit&layout=compact&hide_border=true" width="330">
 
 </div>
 
