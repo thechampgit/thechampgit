@@ -1,10 +1,29 @@
-### Hi there, I'm Champ 👋
+<h1 align="center">Hi, I'm Champ 👋</h1>
+<h4 align ="center"> Student | Making computers do the hard work</h4>
+<hr>
+
+
+
+
+<h3> About me🗣️:</h3> 
+
+I'm a developer who enjoys solving real-world problems with technology.
 <br>
 
-##  Student | Making computers do the hard work.
-<br>
 
-## 🗣️ About me : Never thought I'd end up in tech, but now I can't imagine doing anything else.
+ <img src="<img width="735" height="696" alt="8585055536398852" src="https://github.com/user-attachments/assets/6d01166a-12a6-451d-8adc-ce519fbf9437" />
+" width="300" alt="Banner">
+
+
+
+My interests include:
+- Artificial Intelligence
+- Full-Stack Web Development
+- Computer Vision
+- UI/UX Design
+- Open Source
+- Hackathons
+
 <br>
 
 
