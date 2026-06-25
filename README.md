@@ -28,6 +28,7 @@ My interests include:
 - Open Source
 - Hackathons
 
+I came for the degree, stayed for the code.
 <br>
 <hr>
 
@@ -56,6 +57,8 @@ My interests include:
 
 
 <br> 
+<hr>
+
 
 
 <h5> 🌐 Let's Connect: </h5>
@@ -80,6 +83,7 @@ My interests include:
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=thechampgit&layout=compact&hide_border=true" width="330">
 
 </div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
